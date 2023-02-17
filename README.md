@@ -1,2 +1,3 @@
 # NumPy-Tutorial-for-beginner
-Learn Numpy (python) from basic to intermediate
+Learn Python NumPy Library from basic to intermediate
+ 
